@@ -1,2 +1,2 @@
-# hackkerrank-python
+# hackerrank-python
 Solution for HackerRank Python problems
